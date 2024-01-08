@@ -1,0 +1,14 @@
+.info{
+    padding: 5px;
+    margin: 5px;
+}
+.error{
+    color: red;
+}
+.container{
+    width:300px;
+    height:400px;
+    background-color: rgb(0, 191, 255);
+    text-align: center;
+    margin:auto;
+}
